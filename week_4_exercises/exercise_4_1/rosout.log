@@ -1,0 +1,11 @@
+
+
+1602803012.063219381  Node Startup
+1602803066.628470917 INFO /your_node [/home/vagrant/catkin_ws/src/week-4-programming-spatel776/week_4_exercises/exercise_4_1/your_node.cpp:11(String))] [topics: /rosout] wrestling
+1602803067.129679548 INFO /your_node [/home/vagrant/catkin_ws/src/week-4-programming-spatel776/week_4_exercises/exercise_4_1/your_node.cpp:11(String))] [topics: /rosout] navigation
+1602803067.629719469 INFO /your_node [/home/vagrant/catkin_ws/src/week-4-programming-spatel776/week_4_exercises/exercise_4_1/your_node.cpp:11(String))] [topics: /rosout] soccer
+1602803068.129877810 INFO /your_node [/home/vagrant/catkin_ws/src/week-4-programming-spatel776/week_4_exercises/exercise_4_1/your_node.cpp:11(String))] [topics: /rosout] racecar
+1602803068.630088548 INFO /your_node [/home/vagrant/catkin_ws/src/week-4-programming-spatel776/week_4_exercises/exercise_4_1/your_node.cpp:11(String))] [topics: /rosout] computer
+1602803069.130387839 INFO /your_node [/home/vagrant/catkin_ws/src/week-4-programming-spatel776/week_4_exercises/exercise_4_1/your_node.cpp:11(String))] [topics: /rosout] bee
+1602803069.630616194 INFO /your_node [/home/vagrant/catkin_ws/src/week-4-programming-spatel776/week_4_exercises/exercise_4_1/your_node.cpp:11(String))] [topics: /rosout] 
+1602803070.130701164 INFO /your_node [/home/vagrant/catkin_ws/src/week-4-programming-spatel776/week_4_exercises/exercise_4_1/your_node.cpp:11(String))] [topics: /rosout] testing testing 123
